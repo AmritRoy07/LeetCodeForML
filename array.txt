@@ -1,0 +1,32 @@
+1. Two Sum: Find two numbers in an array that add up to a specific target sum.
+
+11. Container With Most Water: Determine the maximum area of water that can be trapped between vertical lines in an array.
+
+15. 3Sum: Find all unique triplets in an array that sum up to zero.
+
+16. 3Sum Closest
+
+53. Maximum Subarray: Find the contiguous subarray with the largest sum in an array.
+
+121. Best Time to Buy and Sell Stock: Maximize profit by buying and selling stocks from an array of prices.
+
+122. Best Time to Buy and Sell Stock II
+
+123. Best Time to Buy and Sell Stock III
+
+152. Maximum Product Subarray: Find the contiguous subarray within an array with the largest product.
+
+188. Best Time to Buy and Sell Stock IV
+
+238. Product of Array Except Self: Compute an array where each element is the product of all elements except itself.
+
+268. Missing Number: Find the missing number in an array containing numbers from 0 to n without duplicates.
+    
+442. Find All Duplicates in an Array: Find all elements that appear twice in an array with values from 1 to n.
+
+560. Subarray Sum Equals K: Count the number of subarrays in an array whose sum equals a given value k.
+    
+    
+    
+    
+    
