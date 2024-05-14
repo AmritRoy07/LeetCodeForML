@@ -23,7 +23,6 @@ class Solution:
                     left+=1
                 else:
                     right -=1
-
         return result
 
 num = [-1, 0, 1, 2, -1, 4]
