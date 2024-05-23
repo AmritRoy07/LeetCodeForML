@@ -6,7 +6,7 @@
 
 20. Valid Parentheses
 
-5. Implement strStr()
+344. Reverse String
 
 6. Reverse Words in a String
 
