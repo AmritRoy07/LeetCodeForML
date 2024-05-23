@@ -8,7 +8,7 @@
 
 344. Reverse String
 
-6. Reverse Words in a String
+151. Reverse Words in a String
 
 7. String to Integer (atoi)
 
