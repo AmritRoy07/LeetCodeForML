@@ -12,7 +12,7 @@
 
 8. String to Integer (atoi)
 
-8. Count and Say
+38. Count and Say
 
 9. Longest Common Prefix
 
