@@ -4,7 +4,7 @@
 
 5. Longest Palindromic Substring
 
-4. Valid Parentheses
+20. Valid Parentheses
 
 5. Implement strStr()
 
