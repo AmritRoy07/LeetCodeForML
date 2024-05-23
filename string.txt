@@ -1,19 +1,19 @@
-125. Valid Palindrome
-
 3. Longest Substring Without Repeating Characters
 
 5. Longest Palindromic Substring
 
-20. Valid Parentheses
-
-344. Reverse String
-
-151. Reverse Words in a String
-
 8. String to Integer (atoi)
-
-38. Count and Say
 
 14. Longest Common Prefix
 
+20. Valid Parentheses
+
+38. Count and Say
+
 49. Group Anagrams
+
+125. Valid Palindrome
+
+151. Reverse Words in a String
+
+344. Reverse String
