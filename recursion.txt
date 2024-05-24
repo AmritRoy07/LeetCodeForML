@@ -1,0 +1,21 @@
+Here are ten LeetCode questions related to recursion:
+
+1. Fibonacci Number (Question 509)
+
+2. Climbing Stairs (Question 70)
+
+3. Reverse Linked List (Question 206)
+
+4. Binary Tree Inorder Traversal (Question 94)
+
+5. Validate Binary Search Tree (Question 98)
+
+6. Generate Parentheses (Question 22)
+
+7. Subsets (Question 78)
+
+8. Merge Two Sorted Lists (Question 21)
+
+9. Unique Paths (Question 62)
+
+10. Decode Ways (Question 91)

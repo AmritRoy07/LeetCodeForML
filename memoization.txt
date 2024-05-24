@@ -1,0 +1,21 @@
+Here are ten LeetCode questions related to memoization:
+
+1. Climbing Stairs (Question 70)
+
+2. Fibonacci Number (Question 509)
+
+3. Unique Paths (Question 62)
+
+4. House Robber (Question 198)
+
+5. Decode Ways (Question 91)
+
+6. Maximum Subarray (Question 53)
+
+7. Word Break (Question 139)
+
+8. Coin Change (Question 322)
+
+9. Combination Sum (Question 39)
+
+10. Regular Expression Matching (Question 10)
