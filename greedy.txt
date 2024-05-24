@@ -1,0 +1,21 @@
+Here are ten LeetCode questions related to greedy algorithms:
+
+1. Jump Game (Question 55)
+
+2. Best Time to Buy and Sell Stock II (Question 122)
+
+3. Assign Cookies (Question 455)
+
+4. Minimum Number of Arrows to Burst Balloons (Question 452)
+
+5. Non-overlapping Intervals (Question 435)
+
+6. Queue Reconstruction by Height (Question 406)
+
+7. Partition Labels (Question 763)
+
+8. Minimum Number of K Consecutive Bit Flips (Question 995)
+
+9. Gas Station (Question 134)
+
+10. Task Scheduler (Question 621)
