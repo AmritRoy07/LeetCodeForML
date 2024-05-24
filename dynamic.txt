@@ -4,8 +4,9 @@ Here are ten LeetCode questions related to dynamic programming:
 
 62. Unique Paths 
 
-64. Minimum Path Sum 
-1. Climbing Stairs (Question 70)
+64. Minimum Path Sum
+ 
+70. Climbing Stairs 
 2. Coin Change (Question 322)
 3. Longest Increasing Subsequence (Question 300)
 
