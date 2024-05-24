@@ -10,5 +10,3 @@ Here are ten LeetCode questions related to binary search:
 8. Find K Closest Elements (Question 658)
 9. Capacity To Ship Packages Within D Days (Question 1011)
 10. Kth Missing Positive Number (Question 1539)
-
-These questions cover a range of scenarios where binary search can be applied to efficiently search for elements, find peaks or minimums, and solve optimization problems.
