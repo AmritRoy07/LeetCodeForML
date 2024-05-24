@@ -16,8 +16,10 @@ Here are ten LeetCode questions related to dynamic programming:
 
 198. House Robber 
 
-2. Coin Change (Question 322)
-3. Longest Increasing Subsequence (Question 300)
+300. Longest Increasing Subsequence 
+
+322. Coin Change
+
 
 
 
