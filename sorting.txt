@@ -1,12 +1,21 @@
 Here are ten LeetCode questions related to sorting:
 
 1. Merge Intervals (Question 56)
+
 2. Sort Colors (Question 75)
+
 3. Meeting Rooms II (Question 253)
+
 4. Largest Number (Question 179)
+
 5. Insertion Sort List (Question 147)
+
 6. Top K Frequent Elements (Question 347)
+
 7. Kth Largest Element in an Array (Question 215)
+
 8. Meeting Rooms (Question 252)
+
 9. Sort List (Question 148)
+
 10. Reorder Data in Log Files (Question 937)
