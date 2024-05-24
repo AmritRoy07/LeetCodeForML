@@ -1,0 +1,21 @@
+Here are ten LeetCode questions related to math that are important for data science and machine learning practice:
+
+1. Two Sum 
+
+2. Add Two Numbers 
+
+8. String to Integer (atoi) 
+
+11. Container With Most Water (Question 11)
+
+12. Integer to Roman 
+
+13. Roman to Integer 
+
+20. Valid Parentheses 
+
+36. Valid Sudoku 
+
+42. Trapping Rain Water 
+
+50. Pow(x, n) 
