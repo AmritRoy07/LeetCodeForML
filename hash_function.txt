@@ -1,12 +1,21 @@
 Here are ten LeetCode questions related to hash functions and hashing:
 
 1. Two Sum (Question 1)
+
 2. Valid Anagram (Question 242)
+
 3. Group Anagrams (Question 49)
+
 4. Subarray Sum Equals K (Question 560)
+
 5. First Unique Character in a String (Question 387)
+
 6. Longest Substring Without Repeating Characters (Question 3)
+
 7. Isomorphic Strings (Question 205)
+
 8. Minimum Window Substring (Question 76)
+
 9. Intersection of Two Arrays II (Question 350)
+
 10. Sort Characters By Frequency (Question 451)
