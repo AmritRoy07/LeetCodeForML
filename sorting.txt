@@ -1,4 +1,4 @@
-Certainly, here are ten LeetCode questions related to sorting:
+Here are ten LeetCode questions related to sorting:
 
 1. Merge Intervals (Question 56)
 2. Sort Colors (Question 75)
