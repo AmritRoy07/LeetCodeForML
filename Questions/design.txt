@@ -1,0 +1,21 @@
+Here are ten LeetCode questions related to design:
+
+1. Design Twitter (Question 355)
+
+2. Design HashMap (Question 706)
+
+3. Design Linked List (Question 707)
+
+4. Design Circular Deque (Question 641)
+
+5. Design Hit Counter (Question 362)
+
+6. Design Browser History (Question 1472)
+
+7. Design Underground System (Question 1396)
+
+8. Design In-Memory File System (Question 588)
+
+9. Design Log Storage System (Question 635)
+
+10. Design Authentication Manager (Question 1797)
