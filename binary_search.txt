@@ -1,12 +1,21 @@
 Here are ten LeetCode questions related to binary search:
 
 1. Guess Number Higher or Lower (Question 374)
+
 2. Search in Rotated Sorted Array (Question 33)
+
 3. Search Insert Position (Question 35)
+
 4. Find Minimum in Rotated Sorted Array (Question 153)
+
 5. Find Peak Element (Question 162)
+
 6. Search in Rotated Sorted Array II (Question 81)
+
 7. Peak Index in a Mountain Array (Question 852)
+
 8. Find K Closest Elements (Question 658)
+
 9. Capacity To Ship Packages Within D Days (Question 1011)
+
 10. Kth Missing Positive Number (Question 1539)
