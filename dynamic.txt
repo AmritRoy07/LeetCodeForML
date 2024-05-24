@@ -1,0 +1,17 @@
+Here are ten LeetCode questions related to dynamic programming:
+
+53. Maximum Subarray 
+
+62. Unique Paths 
+
+64. Minimum Path Sum 
+1. Climbing Stairs (Question 70)
+2. Coin Change (Question 322)
+3. Longest Increasing Subsequence (Question 300)
+
+
+6. House Robber (Question 198)
+7. Decode Ways (Question 91)
+
+9. Word Break (Question 139)
+10. Best Time to Buy and Sell Stock (Question 121)
